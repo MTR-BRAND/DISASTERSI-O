@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Navbar from './components/Navbar';
+import Navbar from './components/navbar.jsx';
 import Dashboard from './components/Dashboard';
 import Incidents from './components/Incidents'; // Fixed the typo
 import Locations from './components/Locations';
