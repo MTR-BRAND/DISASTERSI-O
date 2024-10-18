@@ -52,7 +52,7 @@ function NewIncidents() {
           onClick={() => {
               navigate('/Incidents2');
           }}
-          className='w-[139px] h-[42px] bg-[#f26722] text-[12px] text-white font-bold rounded-[6px]'>
+          className='w-[139px] h-[42px] bg-[#f26722] text-[12px] text-white font-bold rounded-[6px] hover:scale-105 transition-transform'>
           Get Started
         </button>
       </div>
