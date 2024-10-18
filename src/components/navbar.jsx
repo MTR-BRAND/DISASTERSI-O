@@ -187,7 +187,7 @@ const handleNextStep = () => {
               <li key={item} >
                 <NavLink
                   to={`/${item}`}
-                  className={({ isActive }) => (isActive ? "text-[#09090B] font-bold" : "text-[#A1A1AA]")}
+                  className={({ isActive }) => (isActive ? "text-[#09090B] font-bold" : "text-[#72727a]")}
                 >
                   {item}
                 </NavLink>
