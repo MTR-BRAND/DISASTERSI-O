@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@import url('https://fonts.googleapis.com/css2?family=Onest:wght@100..900&display=swap');
+
+*{
+    font-family: "Onest", sans-serif;
+}
+
+.font2{
+    font-family: "Bebas Neue", sans-serif;
+}
+
+
+.shadow{
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+
+
+@media (min-width:481px) and (max-width:1024px) {
+  .navHidden{
+    display: none;
+  }
+
+  .menuBar{
+    display: block;
+  }
+}
+
+
+.box:hover .img{
+  filter: brightness(500);
+} 
+
+
+
+.black{
+  filter: brightness(0);
+}
+
+
+::selection{
+  background-color: #00000053;
+
+}
