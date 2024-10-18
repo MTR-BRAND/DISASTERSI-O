@@ -55,12 +55,12 @@ function Dashboard() {
        <div className='h-full px-[80px] py-[20px] flex justify-center gap-[25px] flex-wrap'>
         <div className='w-[1300px] flex justify-center xl:justify-start lg:justify-center sm:justify-center md:justify-center gap-[25px] flex-wrap'>
 
-          <MainCard img="public\img\img1.png" icon="public\img\Blizzard2.png" iconText="Blizzard" heading="Whitechapel Rd." title="Tulare County,  Los Angles, CA 23415" int="$1,456,654.00"/>
-          <MainCard img="public\img\img2.png" icon="public\img\Blizzard2.png" iconText="Blizzard" heading="Whitechapel Rd." title="Tulare County,  Los Angles, CA 23415" int="$1,456,654.00"/>
-          <MainCard img="public\img\img3.png" icon="public\img\Blizzard2.png" iconText="Blizzard" heading="Tulare County" title="Tulare County,  Los Angles, CA 23415" int="$1,456,654.00"/>
-          <MainCard img="public\img\img4.png" icon="public\img\Blizzard2.png" iconText="Blizzard" heading="Tulare County" title="Tulare County,  Los Angles, CA 23415" int="$1,456,654.00"/>
-          <MainCard img="public\img\img5.png" icon="public\img\Blizzard2.png" iconText="Blizzard" heading="Tulare County" title="Tulare County,  Los Angles, CA 23415" int="$1,456,654.00"/>
-          <MainCard img="public\img\img6.png" icon="public\img\Blizzard2.png" iconText="Blizzard" heading="Tulare County" title="Tulare County,  Los Angles, CA 23415" int="$1,456,654.00"/>
+          <MainCard img="\img\img1.png" icon="\img\Blizzard2.png" iconText="Blizzard" heading="Whitechapel Rd." title="Tulare County,  Los Angles, CA 23415" int="$1,456,654.00"/>
+          <MainCard img="\img\img2.png" icon="\img\Blizzard2.png" iconText="Blizzard" heading="Whitechapel Rd." title="Tulare County,  Los Angles, CA 23415" int="$1,456,654.00"/>
+          <MainCard img="\img\img3.png" icon="\img\Blizzard2.png" iconText="Blizzard" heading="Tulare County" title="Tulare County,  Los Angles, CA 23415" int="$1,456,654.00"/>
+          <MainCard img="\img\img4.png" icon="\img\Blizzard2.png" iconText="Blizzard" heading="Tulare County" title="Tulare County,  Los Angles, CA 23415" int="$1,456,654.00"/>
+          <MainCard img="\img\img5.png" icon="\img\Blizzard2.png" iconText="Blizzard" heading="Tulare County" title="Tulare County,  Los Angles, CA 23415" int="$1,456,654.00"/>
+          <MainCard img="\img\img6.png" icon="\img\Blizzard2.png" iconText="Blizzard" heading="Tulare County" title="Tulare County,  Los Angles, CA 23415" int="$1,456,654.00"/>
 
         </div>
 
