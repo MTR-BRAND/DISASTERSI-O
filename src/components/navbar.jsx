@@ -30,7 +30,7 @@ function Navbar() {
         return (
           <>
           <div className='flex items-center gap-3'>
-          <img className='black' src="public\img\SevereStorm.png" alt="" /> Incidents - DR-4699 March 2023 Severe Storms 
+          <img className='black' src="\img\SevereStorm.png" alt="" /> Incidents - DR-4699 March 2023 Severe Storms 
           </div>
           </>
         );
@@ -179,7 +179,7 @@ const handleNextStep = () => {
     <>
       <header className='w-full bg-[#f2f2f2] relative'>
         <nav className='flex justify-between items-center px-4 md:px-[80px] py-[20px] border-b-2 border-[#e6e6e8]'>
-          <img src="public/img/logo.png" alt="Logo" className='w-[120px] md:w-[140]' />
+          <img src="/img/logo.png" alt="Logo" className='w-[120px] md:w-[140]' />
 
           {/* Main Navigation Links */}
           <ul className='hidden lg:flex gap-3 lg:gap-8'>
@@ -198,11 +198,11 @@ const handleNextStep = () => {
           {/* User and Hamburger Icon for mobile menu */}
           <div className='flex justify-center items-center gap-2 '>
             <div className='relative'>
-              <img src="public/img/notifIcon.png" alt="Notifications" className='hover:scale-105 transition-transform'/>
+              <img src="/img/notifIcon.png" alt="Notifications" className='hover:scale-105 transition-transform'/>
               <div className='w-3 h-3 rounded-full bg-green-400 border-[2px] border-[#fff] absolute top-0 right-0 '></div>
             </div>
             <div className='flex items-center'>
-              <img src="public/img/user.png" alt="User" className='w-[40px] hover:scale-105 transition-transform' />
+              <img src="/img/user.png" alt="User" className='w-[40px] hover:scale-105 transition-transform' />
               <div className='pl-2 hidden md:block'>
                 <h1 className='text-[#A1A1AA] text-[16px] font-semibold block md:hidden'>Usman Zafar</h1>
                 <p className='text-[#A1A1AA] text-[14px] block md:hidden'>usmanzafar@gmail.com</p>

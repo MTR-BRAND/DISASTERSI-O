@@ -49,7 +49,7 @@ function Locations() {
             <div className='flex flex-col gap-10'>
               <div className='flex items-center gap-3'>
                 <div className='w-[37px] h-[37px] rounded-full bg-[#f5f5f5] flex items-center justify-center'>
-                  <img src='public/img/location.png' className='text-[#72727a]' />
+                  <img src=' /img/location.png' className='text-[#72727a]' />
                 </div>
                 <div>
                   <p className='text-[#6B7280] text-[14px] pb-1'>Location</p>
@@ -58,7 +58,7 @@ function Locations() {
               </div>
               <div className='flex items-center gap-3'>
                 <div className='w-[37px] h-[37px] rounded-full bg-[#f5f5f5] flex items-center justify-center'>
-                  <img src='public/img/approx.png' className='text-[#72727a]' />
+                  <img src=' /img/approx.png' className='text-[#72727a]' />
                 </div>
                 <div>
                   <p className='text-[#6B7280] text-[14px] pb-1'>Approx. Cost:</p>
@@ -82,10 +82,10 @@ function Locations() {
                 <p className='text-[14px] text-[#A1A1AA] underline cursor-pointer'>See all</p>
               </div>
               <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3 gap-5'>
-                <MainCard img='public/img/location1.png' icon='public/img/building.png' iconText='Building' heading='Whitechapel Rd.' title='Tulare County, Los Angeles, CA 23415' int='$1,456,654.00' />
-                <MainCard img='public/img/location2.png' icon='public/img/building.png' iconText='Building' heading='Whitechapel Rd.' title='Tulare County, Los Angeles, CA 23415' int='$1,456,654.00' />
-                <MainCard img='public/img/location1.png' icon='public/img/building.png' iconText='Building' heading='Whitechapel Rd.' title='Tulare County, Los Angeles, CA 23415' int='$1,456,654.00' />
-                <MainCard img='public/img/location1.png' icon='public/img/building.png' iconText='Building' heading='Whitechapel Rd.' title='Tulare County, Los Angeles, CA 23415' int='$1,456,654.00' />
+                <MainCard img='/img/location1.png' icon='/img/building.png' iconText='Building' heading='Whitechapel Rd.' title='Tulare County, Los Angeles, CA 23415' int='$1,456,654.00' />
+                <MainCard img='/img/location2.png' icon='/img/building.png' iconText='Building' heading='Whitechapel Rd.' title='Tulare County, Los Angeles, CA 23415' int='$1,456,654.00' />
+                <MainCard img='/img/location1.png' icon='/img/building.png' iconText='Building' heading='Whitechapel Rd.' title='Tulare County, Los Angeles, CA 23415' int='$1,456,654.00' />
+                <MainCard img='/img/location1.png' icon='/img/building.png' iconText='Building' heading='Whitechapel Rd.' title='Tulare County, Los Angeles, CA 23415' int='$1,456,654.00' />
               </div>
             </div>
             <br />
@@ -97,8 +97,8 @@ function Locations() {
                 <p className='text-[14px] text-[#0A0A0A] underline cursor-pointer'>See all</p>
               </div>
               <div className='flex flex-col gap-5'>
-                <LocationCard img="public/img/location1.png" name="Activity name" int="$1,456,654.00" />
-                <LocationCard img="public/img/location1.png" name="Activity name" int="$1,456,654.00" />
+                <LocationCard img="/img/location1.png" name="Activity name" int="$1,456,654.00" />
+                <LocationCard img="/img/location1.png" name="Activity name" int="$1,456,654.00" />
               </div>
             </div>
             <br />
@@ -110,8 +110,8 @@ function Locations() {
                 <p className='text-[14px] text-[#0A0A0A] underline cursor-pointer'>See all</p>
               </div>
               <div className='flex flex-col gap-5'>
-                <LocationCard img="public/img/location1.png" name="Document name" int="$1,456,654.00" />
-                <LocationCard img="public/img/location1.png" name="Document name" int="$1,456,654.00" />
+                <LocationCard img="/img/location1.png" name="Document name" int="$1,456,654.00" />
+                <LocationCard img="/img/location1.png" name="Document name" int="$1,456,654.00" />
               </div>
             </div>
           </div>
@@ -119,7 +119,7 @@ function Locations() {
           <div className='w-full lg:w-[50%] lg:flex flex-col items-end'>
             <div className='text-start text-[14px] text-[#71717A]'>
               <p className='pb-3'>Incident Map</p>
-              <img className='w-full lg:h-[503px] rounded-[10px] cursor-pointer' src="public/img/map.png" alt="" />
+              <img className='w-full lg:h-[503px] rounded-[10px] cursor-pointer' src=" /img/map.png" alt="" />
               <p className='pt-3 flex items-center gap-10 lg:gap-20 text-[14px] text-[#71717A]'>
                 <span>Start 19.1232, -118.233</span>
                 <span>End 19.3245, -119.2323</span>

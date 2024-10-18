@@ -42,9 +42,9 @@ function NewIncidents() {
 
         {/* Cards Section */}
         <div className='flex flex-col md:flex-row gap-8 md:gap-14'>
-          <Card img="public/img/inc1.png" title="What type of incident?" dts="Choose the category that best describes the incident." />
-          <Card img="public/img/inc2.png" title="Tell us about the incident?" dts="Let’s connect the dots and see where to start." />
-          <Card img="public/img/inc3.png" title="Where did the incident occur?" dts="Lorem ipsum dolar sit general sac mascho werho" />
+          <Card img="/img/inc1.png" title="What type of incident?" dts="Choose the category that best describes the incident." />
+          <Card img="/img/inc2.png" title="Tell us about the incident?" dts="Let’s connect the dots and see where to start." />
+          <Card img="/img/inc3.png" title="Where did the incident occur?" dts="Lorem ipsum dolar sit general sac mascho werho" />
         </div>
 
         {/* Start Button */}

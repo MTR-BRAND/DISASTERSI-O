@@ -11,7 +11,7 @@ function Incident4() {
             </div>
 
             <div className='mt-5 relative'>
-                <img className='rounded-[10px]' src="public\img\map.png" alt="" />
+                <img className='rounded-[10px]' src="\img\map.png" alt="" />
                 <div className='absolute top-3 left-3 flex flex-col gap-1'>
 
                 {/* input setion */}
